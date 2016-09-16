@@ -1,7 +1,7 @@
 ## Java Debug Hack Practice
 
 #### Material
-A tutorial of debug hacks based on matrix multiplication.<br>
+A tutorial of debug hacks.<br>
 Link: [Java Debug Hacks (CHN)](https://iss-java.github.io/2016/09/16/Java-Debug-Hacks/)<br>
 The code to practice with: [code repo](https://github.com/iss-java/DebugHack)<br>
 
@@ -17,4 +17,4 @@ The code to practice with: [code repo](https://github.com/iss-java/DebugHack)<br
 #### Submission
 
 For Objective A, you are expected to make a screenshot for each debug hack, and give a short explanation of **your** purpose for each one.<br>
-For both objectives, you can write them into a single document or two(doc, docx, pdf, markdown). Append your document(s) to your "Doubly-linked list" homework.
+For both objectives, you can write them into a single document or two(doc, docx, pdf, markdown). **Append** your document(s) to your "Doubly-linked list" homework.
