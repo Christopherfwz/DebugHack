@@ -10,8 +10,6 @@ import java.util.concurrent.CyclicBarrier;
 
 /**
  * Created by Wen Ke on 2016/9/15.
- * Happy Mid-Autumn!
- * С Праздником Луны!
  */
 public class Matrix {
     private final int row;
@@ -188,3 +186,48 @@ public class Matrix {
         }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+ * An Easter egg here ~~
+ *
+ * Glory sacrificing for the state,
+ * Darned escaping because of fate.
+ *                  ---- The Elder.
+ */
